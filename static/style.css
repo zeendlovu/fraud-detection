@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(212, 128, 18);
+}
+
+input{
+    padding: 7px;
+    margin: 10px;
+}
+.transaction{
+    background-color: red;
+    height: 600px;
+    width: 100px;
+    border: 1px solid red;
+    
+}
+.output{
+    height: 600px;
+    width: 100px; 
+    background-color: red;
+}
