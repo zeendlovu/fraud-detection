@@ -8,13 +8,9 @@ input{
 }
 .transaction{
     background-color: red;
-    height: 600px;
-    width: 100px;
+    height: 2000px;
+    width: 200px;
     border: 1px solid red;
     
 }
-.output{
-    height: 600px;
-    width: 100px; 
-    background-color: red;
-}
+
