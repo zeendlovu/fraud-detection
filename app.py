@@ -42,7 +42,7 @@ def func():
         result = model.dtc.predict([array])
         print(result)
         
-        return render_template(output=result)
+        return render_template('index.html',output=result)
     return render_template('index.html')
 
 if __name__ == "__main__":
